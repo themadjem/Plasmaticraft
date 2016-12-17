@@ -1,0 +1,9 @@
+item.plasmatic_ingot.name=Plasmatic Ingot
+tile.plasmatic_ore.name=Plasmatic Ore
+tile.plasmatic_block.name=Plasmatic Block
+item.plasma_nugget.name=Plasmatic Nugget
+item.plasma_sword.name=Plasma Sword
+item.plasma_pick.name=Plasma Pickaxe
+item.highland_dewdrop.name=Highland Dewdrop
+
+itemGroup.plsmctab=Plasmaticraft
