@@ -1,4 +1,4 @@
-
+NOTE: oly one food was eaten at each time, but the method was called twice. The second and subsequebt times, the duration of the effect was reset to zero
 First time food eaten:
 [16:36:10] [Server thread/INFO] [plsmc]: [Lnet.minecraft.potion.PotionEffect;@6833340b
 [16:36:10] [Server thread/INFO] [plsmc]: effect.jump x 256, Duration: 300 Applied
