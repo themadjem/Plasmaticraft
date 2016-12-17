@@ -1,0 +1,16 @@
+
+First time food eaten:
+[16:36:10] [Server thread/INFO] [plsmc]: [Lnet.minecraft.potion.PotionEffect;@6833340b
+[16:36:10] [Server thread/INFO] [plsmc]: effect.jump x 256, Duration: 300 Applied
+[16:36:10] [Server thread/INFO] [plsmc]: Item consumed
+[16:36:10] [Client thread/INFO] [plsmc]: [Lnet.minecraft.potion.PotionEffect;@6833340b
+[16:36:10] [Client thread/INFO] [plsmc]: effect.jump x 256, Duration: 300 Applied
+[16:36:10] [Client thread/INFO] [plsmc]: Item consumed
+
+Subsequent:
+[16:37:45] [Server thread/INFO] [plsmc]: [Lnet.minecraft.potion.PotionEffect;@6833340b
+[16:37:45] [Server thread/INFO] [plsmc]: effect.jump x 256, Duration: 0 Applied
+[16:37:45] [Server thread/INFO] [plsmc]: Item consumed
+[16:37:45] [Client thread/INFO] [plsmc]: [Lnet.minecraft.potion.PotionEffect;@6833340b
+[16:37:45] [Client thread/INFO] [plsmc]: effect.jump x 256, Duration: 0 Applied
+[16:37:45] [Client thread/INFO] [plsmc]: Item consumed
