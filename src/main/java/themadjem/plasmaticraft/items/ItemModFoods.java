@@ -65,7 +65,7 @@ public class ItemModFoods extends ItemFood{
 	 */
 	@Override
 	protected void onFoodEaten(ItemStack stack, World worldIn, EntityPlayer player) {
-		Utils.getLogger().info(effects);
+		Utils.getLogger().info(new PotionEffect(effects));
 		
 		for(PotionEffect effect : effects){
 			player.addPotionEffect(effect);
